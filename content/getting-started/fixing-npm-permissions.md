@@ -5,7 +5,7 @@ featured: true
 
 # How to Prevent Permissions Errors
 
-If you see an `EACCES` error when you try to install a package globally, read this chapter. This error can often be avoided if you change the directory where npm is installed. To do this, either:
+If you see an `ACCES` error when you try to install a package globally, read this chapter. This error can often be avoided if you change the directory where npm is installed. To do this, either:
 
 1.  Reinstall npm with a version manager (recommended), 
  
